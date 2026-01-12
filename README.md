@@ -26,8 +26,18 @@ Expected file name:
 ---
 
 ## 📊 Visual Insights
+
 ### Companies per Industry
-![Companies per Industry](images/industry_distribution.png)
+![Companies per Industry](images/companies_per_industry.png)
+
+### Companies Founded (1995–2015)
+![Companies Founded](images/companies_founded_1995_2015.png)
+
+### Growth Distribution by Company Size
+![Growth Distribution by Company Size](images/growth_distribution_by_company_size.png)
+
+### Company Size Distribution
+![Company Size Distribution](images/company_size_distribution.png)
 
 ---
 
