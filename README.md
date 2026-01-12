@@ -10,10 +10,10 @@ Source (Kaggle): Inc. 5000 Companies 2019
 https://www.kaggle.com/datasets/07b43fabef2f773ede5a6f1d2bcec3682435897e8854d087e82a0babf0806ca0
 
 > Note: The dataset is not included in this repo.  
-> Download it from Kaggle and place the CSV file in the project root (or in a `data/` folder).
+> Download it from Kaggle and place the CSV file inside the `data/` folder.
 
-Expected file name:
-- `INC_5000_Companies_2019.csv`
+Expected path:
+- data/INC_5000_Companies_2019.csv
 
 ---
 
