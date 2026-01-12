@@ -1,1 +1,16 @@
+# Dataset files (do not upload)
+data/
+*.csv
+*.zip
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+venv/
+.env
 
