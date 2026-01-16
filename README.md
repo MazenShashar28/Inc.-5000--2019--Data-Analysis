@@ -13,7 +13,7 @@ https://www.kaggle.com/datasets/07b43fabef2f773ede5a6f1d2bcec3682435897e8854d087
 > Download it from Kaggle and place the CSV file inside the `data/` folder.
 
 Expected path:
-- data/INC_5000_Companies_2019.csv
+- `data/INC_5000_Companies_2019.csv`
 
 ---
 
@@ -30,14 +30,14 @@ Expected path:
 ### Companies per Industry
 ![Companies per Industry](images/companies_per_industry.png)
 
-### Companies Founded (1995–2015)
-![Companies Founded](images/companies_founded_1995_2015.png)
-
 ### Growth Distribution by Company Size
 ![Growth Distribution by Company Size](images/growth_distribution_by_company_size.png)
 
-### Company Size Distribution
-![Company Size Distribution](images/company_size_distribution.png)
+---
+
+## 📦 Requirements
+- Python 3.9+
+- Jupyter Notebook
 
 ---
 
@@ -46,8 +46,8 @@ Expected path:
 ### Option 1: Run locally
 ```bash
 # Clone the repository
-git clone https://github.com/<YOUR_USERNAME>/inc5000-2019-analysis.git
-cd inc5000-2019-analysis
+git clone https://github.com/MazenShashar28/Inc.-5000--2019--Data-Analysis.git
+cd Inc.-5000--2019--Data-Analysis
 
 # Create a virtual environment (recommended)
 python -m venv venv
@@ -58,3 +58,9 @@ pip install -r requirements.txt
 
 # Run Jupyter Notebook
 jupyter notebook
+```
+
+---
+
+## 👤 Author
+**Mazen Sharshar**
